@@ -1,0 +1,4 @@
+android/key.properties
+.env
+pubspec.lock
+build/.dart_tool/
